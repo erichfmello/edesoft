@@ -1,0 +1,15 @@
+C:\Projects\Testes\Edesoft\Edesoft\bin\Debug\net6.0\Edesoft.exe
+C:\Projects\Testes\Edesoft\Edesoft\bin\Debug\net6.0\Edesoft.deps.json
+C:\Projects\Testes\Edesoft\Edesoft\bin\Debug\net6.0\Edesoft.runtimeconfig.json
+C:\Projects\Testes\Edesoft\Edesoft\bin\Debug\net6.0\Edesoft.dll
+C:\Projects\Testes\Edesoft\Edesoft\bin\Debug\net6.0\Edesoft.pdb
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.csproj.AssemblyReference.cache
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.AssemblyInfoInputs.cache
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.AssemblyInfo.cs
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.csproj.CoreCompileInputs.cache
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.dll
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\refint\Edesoft.dll
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.pdb
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\Edesoft.genruntimeconfig.cache
+C:\Projects\Testes\Edesoft\Edesoft\obj\Debug\net6.0\ref\Edesoft.dll
